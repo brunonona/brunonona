@@ -11,8 +11,8 @@ My name is **Bruno Nogueira**. Here are a few things about me:
 💡 Found an error, have feedback, or an idea? Feel free to reach out!
 ### 📱 Contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/brunodenogueira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunodenogueira)
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](brunodenogueira@gmail.com)
 
