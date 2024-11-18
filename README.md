@@ -4,7 +4,7 @@ My name is **Bruno Nogueira**. Here are a few things about me:
 
 🎓 I’m studying **Systems Analysis and Development**, currently in my 5th semester.  
 💻 Focused on **Full Stack** development, with a preference for **front-end**.  
-📚 Studing technologies like **React**, **Java (OOP)**, **Angular**, **AWS Cloud**, **Architecture** and various frameworks.  
+📚 Studyng technologies like **React**, **Java (OOP)**, **Angular**, **AWS Cloud**, **Architecture** and various frameworks.  
 🌍 I’m proficient in English (C1), which helps me work in international contexts.  
 💙 Humility and continuous learning are my pillars.  
 
