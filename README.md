@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Welcome to my profile!
 
-<!--
-**brunonona/brunonona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Bruno Nogueira**. Here are a few things about me:
 
-Here are some ideas to get you started:
+🎓 I’m studying **Systems Analysis and Development**, currently in my 5th semester.  
+💻 Focused on **Full Stack** development, with a preference for **front-end**.  
+📚 Studing technologies like **React**, **Java (OOP)**, **Angular**, **AWS Cloud**, **Architecture** and various frameworks.  
+🌍 I’m proficient in English (C1), which helps me work in international contexts.  
+💙 Humility and continuous learning are my pillars.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Found an error, have feedback, or an idea? Feel free to reach out!
+### 📱 Contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](www.linkedin.com/in/brunodenogueira)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](brunodenogueira@gmail.com)
+
+### Tecnologias e ferramentas que utilizo
+Here you'll find some projects focused in the following technologies
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,angular,css,html,react,git,figma,nodejs&theme=light)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunona&hide_progress=true)
+
+Enjoy and come connect 😊
